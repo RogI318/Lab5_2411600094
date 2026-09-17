@@ -19,7 +19,7 @@
 
             <div class="card-body p-4">
 
-                {{-- Session status (e.g., password reset success) --}}
+            
                 @if (session('status'))
                     <div class="alert alert-success small">
                         {{ session('status') }}
