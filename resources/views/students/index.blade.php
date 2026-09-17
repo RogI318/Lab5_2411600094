@@ -12,7 +12,6 @@
         </a>
     </div>
 
-    {{-- Student table card --}}
     <div class="card shadow-hover mb-4">
         <div class="card-header bg-gradient-primary text-white d-flex justify-content-between align-items-center flex-wrap gap-2">
             <h5 class="mb-0">All Students</h5>
